@@ -1,6 +1,6 @@
 {
   "name": "await-stream",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A stream which emits when each constituent stream has emitted.",
   "main": "lib/index.js",
   "scripts": {
