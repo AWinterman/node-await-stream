@@ -12,7 +12,7 @@
     "asynchronous"
   ],
   "author": "Andrew Winterman",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "tape": "^2.12.1",
     "request": "^2.34.0",
