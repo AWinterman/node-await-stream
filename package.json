@@ -1,0 +1,24 @@
+{
+  "name": "await-stream",
+  "version": "0.0.0",
+  "description": "A stream which emits when each constituent stream has emitted.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "node test/*"
+  },
+  "keywords": [
+    "await",
+    "stream",
+    "asynchronous"
+  ],
+  "author": "Andrew Winterman",
+  "license": "ISC",
+  "devDependencies": {
+    "tape": "^2.12.1",
+    "request": "^2.34.0",
+    "accum-transform": "^1.0.0"
+  },
+  "dependencies": {
+    "through": "^2.3.4"
+  }
+}
